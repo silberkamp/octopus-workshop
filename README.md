@@ -14,5 +14,10 @@ Der Workshop beginnt mit Kapitel 1. Das Kapitel 0 beschreibt die Einrichtung der
 |[Kapitel 3](/lesson3/lesson3.md)|...|
 |[Kapitel 4](/lesson4/lesson4.md)|...|
 |[Kapitel 5](/lesson5/lesson5.md)|...|
-
 |[Kapitel 0](/lesson0/lesson0.md)|Einrichtung der Software|
+
+## Weiterführende Links
+
+* Im Kurs kommt die Programmiersprache Microypthon zum Einsatz. [Zur kompletten Dokumentation](https://docs.micropython.org/en/latest/) der Sprache.
+
+* Programmierumgebung ist uPyCraft. Das gibt es [zum kostenlosen Download](https://github.com/DFRobot/uPyCraft).
