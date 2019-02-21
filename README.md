@@ -1,5 +1,7 @@
 # Programmieren mit dem Octopus
 
+![Der IoT-Octopus](octopus.png)
+
 Herzlich Willkommen zur Einführung ins Programmieren mit der Lernplatine "IoT-Octopus".
 
 
