@@ -1,7 +1,5 @@
 # Programmieren mit dem Octopus
 
-![Der IoT-Octopus](octopus.png)
-
 Herzlich Willkommen zur Einführung ins Programmieren mit der Lernplatine "IoT-Octopus".
 
 
@@ -23,3 +21,5 @@ Der Workshop beginnt mit Kapitel 1. Das Kapitel 0 beschreibt die Einrichtung der
 * Im Kurs kommt die Programmiersprache Microypthon zum Einsatz. [Zur kompletten Dokumentation](https://docs.micropython.org/en/latest/) der Sprache.
 
 * Programmierumgebung ist uPyCraft. Das gibt es [zum kostenlosen Download](https://github.com/DFRobot/uPyCraft).
+
+![Der IoT-Octopus](octopus.png)
