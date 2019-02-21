@@ -34,4 +34,19 @@ Zwischen Eingabe und Ausgabe passiert die wahre Magie: Der Computer braucht eine
 
 In diesem Kurs kommt die Programmiersprache Python zum Einsatz. Sie ist für Einsteiger gut zu erlernen. Die ersten Schritte sind immer etwas trocken. Aber schon bald sind wir in der Lage, spannende Dinge zu programmieren. Aber der Reihe nach.
 
-Der Computer in diesem Workshop heißt "IoT Octopus". Was er alles kann, schauen wir uns später an. Jetzt soll er erstmal für uns rechnen. Um die folgenden Beispiele nachzumachen, öffnen Sie das Programm uPyCraft. Verbinden Sie die Platine mit einem USB-Kabel. Die [Ersteinrichtung ist hier beschrieben](../lesson0/lesson0.md).
+Der Computer in diesem Workshop heißt "IoT Octopus". Was er alles kann, schauen wir uns später an. Jetzt soll er erstmal für uns rechnen – auf der kleinen Platine ist ein vollwertiger Computer. Um die folgenden Beispiele nachzumachen, öffnen Sie das Programm uPyCraft. Verbinden Sie die Platine mit einem USB-Kabel. Die [Ersteinrichtung ist hier beschrieben](../lesson0/lesson0.md).
+
+Im unteren Bereich des Programms können wir direkt Befehle eintippen, die sofort ausgeführt werden. Mit der Enter-Taste führt die Platine den Befehl aus. Los geht es mit einer einfachen Rechenaufgabe:
+
+```
+1+1
+```
+Der Mini-Computer braucht wenige Millisekunden und spuckt die Antwort aus: 2. Versuchen Sie es mit größeren Zahlen. Auch die anderen Rechenarten versteht er:
+
+```
+123456789+12345678
+98765432*12345678
+2345234234234-34535345
+```
+
+Alles kein Problem für den Computer. Im [zweiten Kapitel](../lesson2/lesson2.md) soll jetzt das Programm für den Rauminhalt geschrieben werden.
