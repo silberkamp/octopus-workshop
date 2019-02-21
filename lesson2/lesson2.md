@@ -43,6 +43,7 @@ breite = 5
 hoehe = 2.5
 inhalt = laenge*breite*hoehe
 print(inhalt)
+```
 
 Hier kommt gleich ein neuer Befehl zum Einsatz. `print()` schreibt den Inhalt, der in den Klammern steht, auf die Kommandozeile. Führen wir das Programm aus: Rechts in uPyCraft gibt es das Dreieck mit der Spitze nach rechts. Damit startet das Programm. Wir sehen das Ergebnis! Unser Programm können wir mit dem Diskettensymbol speichern.
 
