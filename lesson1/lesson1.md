@@ -38,12 +38,12 @@ Der Computer in diesem Workshop heißt "IoT Octopus". Was er alles kann, schauen
 
 Im unteren Bereich des Programms können wir direkt Befehle eintippen, die sofort ausgeführt werden. Mit der Enter-Taste führt die Platine den Befehl aus. Los geht es mit einer einfachen Rechenaufgabe:
 
-```
+```python
 1+1
 ```
 Der Mini-Computer braucht wenige Millisekunden und spuckt die Antwort aus: 2. Versuchen Sie es mit größeren Zahlen. Auch die anderen Rechenarten versteht er:
 
-```
+```python
 123456789+12345678
 98765432*12345678
 2345234234234-34535345
