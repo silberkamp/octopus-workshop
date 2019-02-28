@@ -11,7 +11,7 @@ Der Workshop beginnt mit Kapitel 1. Das Kapitel 0 beschreibt die Einrichtung der
 |---|---|
 |[Kapitel 1](/lesson1/lesson1.md)|Was ist ein Computer?|
 |[Kapitel 2](/lesson2/lesson2.md)|Das erste Programm|
-|[Kapitel 3](/lesson3/lesson3.md)|...|
+|[Kapitel 3](/lesson3/lesson3.md)|Schleifen und Bedingungen|
 |[Kapitel 4](/lesson4/lesson4.md)|...|
 |[Kapitel 5](/lesson5/lesson5.md)|...|
 |[Kapitel 0](/lesson0/lesson0.md)|Einrichtung der Software|
