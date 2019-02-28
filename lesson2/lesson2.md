@@ -2,7 +2,7 @@
 
 Mit unserem Wissen können wir jetzt einen Rauminhalt berechnen. Nehmen wir an, der erste Raum ist 5 Meter breit, 4 Meter lang und 2,5 Meter hoch. Das können wir direkt in die Kommandozeile tippen:
 
-```
+```python
 5 * 4 * 2,5
 ```
 
@@ -10,13 +10,13 @@ Die Schule hat aber nicht nur einen Raum, sondern vielleicht über 60. Wir wolle
 
 Computer arbeiten mit sogenannten Variablen. Das sind Platzhalter, die man mit einem Wert füllen kann. Eine solche Variable kann man später immer wieder verwenden und der Computer rechnet mit ihrem Wert. In Python legen wir eine Variable schnell an.
 
-```
+```python
 laenge = 4
 ```
 
 Unser Minicomputer hat hinter dem Namen `laenge` die Zahl 4 gespeichert. Zwei weitere Variablen brauchen wir:
 
-```
+```python
 breite = 5
 hoehe = 2.5
 ```
@@ -27,7 +27,7 @@ Die drei Variablen liegen jetzt im Speicher, dem sogenannten RAM. Die Computersp
 
 Es ist an der Zeit, mit unseren Variablen zu arbeiten:
 
-```
+```python
 laenge*breite*hoehe
 ```
 
@@ -37,7 +37,7 @@ Jetzt sind Sie gefragt: Ändern Sie die Werte der Variablen. Experimentieren Sie
 
 Bisher haben wir die Befehle direkt in die Kommandozeile getippt. Jetzt wollen wir ein Programm abspeichern. In uPyCraft gibt es oben rechts einen Button dafür. Im oberen Bereich können wir jetzt ein Programm schreiben und es anschließend ausführen. Unser ganzes Rauminhaltsprogramm sieht so aus. Kopiert es einfach, statt es abzutippen:
 
-```
+```python
 laenge = 4
 breite = 5
 hoehe = 2.5
@@ -53,7 +53,7 @@ Bisher waren die Variablen nicht sonderlich nützlich. Das soll sich jetzt ände
 
 Eine Funktion legt man in Python mit dem Begriff `def` an. Alles, was zu der Funktion gehört, wird mit der TAB-Taste eingerückt. So sieht die Funktion `rauminhalt()` aus:
 
-```
+```python
 def rauminhalt(l,b,h):
   i = l*b*h
   return(i)
@@ -63,7 +63,7 @@ Hier sind mehrere Dinge neu. Auf `def` folgt der Name. Anschließend haben wir i
 
 Schauen wir, was passiert: Speichern und ausführen. Und ... nichts! Aber nicht enttäuscht sein. Bisher haben wir das Werkzeug nur angelegt, aber nicht benutzt. Das können wir ändern. Schreiben Sie am Ende eine weitere Zeile:
 
-```
+```python
 print( rauminhalt(1,2,3) )
 
 ```
