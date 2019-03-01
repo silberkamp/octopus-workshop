@@ -1,4 +1,4 @@
-# Kapitel 4: Blinkende LEDs
+# Kapitel 4: Leuchtende LEDs
 
 Wir verlassen mal kurz den Computer und schauen uns die Welt da draußen an. Programmierer sollen schließlich Lösungen für Probleme in der realen Welt finden.
 
