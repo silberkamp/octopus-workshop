@@ -14,6 +14,7 @@ Der Workshop beginnt mit Kapitel 1. Das Kapitel 0 beschreibt die Einrichtung der
 |[Kapitel 3](/lesson3/lesson3.md)|Schleifen und Bedingungen|
 |[Kapitel 4](/lesson4/lesson4.md)|Leuchtende LEDs|
 |[Kapitel 5](/lesson5/lesson5.md)|Blinkende LEDs|
+|[Kapitel 6](/lesson6/lesson6.md)|Temperaturen lesen|
 |[Kapitel 0](/lesson0/lesson0.md)|Einrichtung der Software|
 
 ## Weiterführende Links
