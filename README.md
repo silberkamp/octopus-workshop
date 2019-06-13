@@ -15,6 +15,8 @@ Der Workshop beginnt mit Kapitel 1. Das Kapitel 0 beschreibt die Einrichtung der
 |[Kapitel 4](/lesson4/lesson4.md)|Leuchtende LEDs|
 |[Kapitel 5](/lesson5/lesson5.md)|Blinkende LEDs|
 |[Kapitel 6](/lesson6/lesson6.md)|Temperaturen lesen|
+|[Kapitel 7](/lesson7/lesson7.md)|-|
+|[Kapitel 8](/lesson8/lesson8.md)|Lautstärke messen|
 |[Kapitel 0](/lesson0/lesson0.md)|Einrichtung der Software|
 
 ## Weiterführende Links
